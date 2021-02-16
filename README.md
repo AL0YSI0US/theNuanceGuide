@@ -12,7 +12,9 @@ I'm currently Focusing on...
 [x] Docker
 [x] Markdown
 </pre>
-</td></tr></table>
+</td></tr></table> 
+
+[![Readme Card](https://github-readme-streak-stats.herokuapp.com/?user=ming-tsai&theme=buefy&hide_border=true)](https://github.com/AL0YSI0US/github-readme-streak-stats)
 
 </code></pre>
 
@@ -22,7 +24,7 @@ I'm currently Focusing on...
         A place to compile what questions I've answered for myself or that others have answered for me.   
                   
                   
-                                                         Don't just fork, 🌟star🌟 it, so others can find it too! 👀
+                                                     Don't just fork, 🌟star🌟 it, so others can find it too! 👀
 
 </code></pre>
 
