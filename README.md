@@ -22,7 +22,7 @@ I'm currently Focusing on...
         A place to compile what questions I've answered for myself or that others have answered for me.   
                   
                   
-                                                                Don't just fork, 🌟star🌟 it, so others can find it too! 👀
+                                                         Don't just fork, 🌟star🌟 it, so others can find it too! 👀
 
 </code></pre>
 
