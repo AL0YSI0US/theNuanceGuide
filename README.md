@@ -1,7 +1,8 @@
 # 📚 theNuanceGuide <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> [![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)
 
+[![Readme Card](https://github-readme-streak-stats.herokuapp.com/?user=ming-tsai&theme=buefy&hide_border=true)](https://github.com/AL0YSI0US/github-readme-streak-stats)
 
-<table><tr><td>
+<table align="center"><tr><td>
 <pre>
 I'm currently Focusing on...
 [x] Python 
@@ -14,7 +15,6 @@ I'm currently Focusing on...
 </pre>
 </td></tr></table> 
 
-[![Readme Card](https://github-readme-streak-stats.herokuapp.com/?user=ming-tsai&theme=buefy&hide_border=true)](https://github.com/AL0YSI0US/github-readme-streak-stats)
 
 </code></pre>
 
