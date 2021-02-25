@@ -23,6 +23,7 @@ I'm currently Focusing on...
 💼 [Linkedin](https://www.linkedin.com/in/a-todd-charliemike/)
 <br>
 <br>
+
 ````python
 📚 This will be a compilation of work guides as I traverse my journey into the Tech industry.
 
