@@ -51,4 +51,4 @@ Neat things happening.....
 
 You're all set! Do this every few weeks to keep things in your terminal moving efficiently.
 
-### Upgrading vs. Updating
+
