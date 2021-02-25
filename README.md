@@ -1,10 +1,5 @@
 # 📚 theNuanceGuide <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> [![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)
 
-| Topic | Work Guide / Tutorial |
-| :-: | - |
-| [Ubuntu](https://github.com/AL0YSI0US/theNuanceGuide/blob/main/keeping-Ubuntu-upToDate.md) | Keeping your Ubuntu software up to date |
-
-<table align="right"><tr><td>
 <pre>
 I'm currently Focusing on...
 [x] Python 
@@ -16,6 +11,13 @@ I'm currently Focusing on...
 [x] Markdown
 </pre>
 </td></tr></table>
+
+| Topic | Work Guide / Tutorial |
+| :-: | - |
+| [Ubuntu](https://github.com/AL0YSI0US/theNuanceGuide/blob/main/keeping-Ubuntu-upToDate.md) | Keeping your Ubuntu software up to date |
+<table align="right"><tr><td>
+
+
 
 ````python
 📚 This will be a compilation of work guides as I traverse my journey into the Tech industry.
