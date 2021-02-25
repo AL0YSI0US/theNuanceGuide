@@ -4,7 +4,7 @@
 | :-: | - |
 | [Ubuntu](https://github.com/AL0YSI0US/theNuanceGuide/blob/main/keeping-Ubuntu-upToDate.md) | Keeping your Ubuntu software up to date |
 
-<table align="center"><tr><td>
+<table align="right"><tr><td>
 <pre>
 I'm currently Focusing on...
 [x] Python 
