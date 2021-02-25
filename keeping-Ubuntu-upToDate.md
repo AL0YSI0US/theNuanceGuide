@@ -29,7 +29,7 @@ sudo apt update
 
 🔓 You will be prompted to enter your password in order to continue.
 
-![](ubuntu-1-version)
+![](https://github.com/AL0YSI0US/theNuanceGuide/blob/main/img/ubuntu-1-version.JPG?raw=true)
 
 All the packages that are available for installation will be displayed.
 
@@ -39,15 +39,15 @@ In order to see the upgrades available to you, type the following into the comma
 apt list --upgradable
 ````
 
-![](ubuntu-2-upgrade.JPG)
+![](https://github.com/AL0YSI0US/theNuanceGuide/blob/main/img/ubuntu-2-upgrade.JPG?raw=true)
 
 You will be asked if you would like to continue... a "y" followed by pressing the return or enter key in any case will suffice.
 
-![](ubuntu-3-continue)
+![](https://github.com/AL0YSI0US/theNuanceGuide/blob/main/img/ubuntu-3-continue.JPG?raw=true)
 
 Neat things happening.....
 
-![](ubuntu-4-progress)
+![](https://github.com/AL0YSI0US/theNuanceGuide/blob/main/img/ubuntu-4-progress.JPG?raw=true)
 
 You're all set! Do this every few weeks to keep things in your terminal moving efficiently.
 
