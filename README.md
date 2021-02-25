@@ -22,6 +22,10 @@ A place to compile what questions I have answered for myself or that others have
           Do more than clone, 🌟star🌟 it, so others can find it too! 👀
 
 ````
+| Topic | Work Guide / Tutorial |
+| :-: | - |
+| [Ubuntu](https://github.com/AL0YSI0US/theNuanceGuide/blob/main/keeping-Ubuntu-upToDate.md) | Keeping your Ubuntu software up to date |
+
 
 👉🏾 I’m currently looking to collaborate on Open Source Projects > ✉️ [aloysiousx@gmail.com](mailto:aloysiousx@gmail.com) ✉️
 
