@@ -18,7 +18,8 @@ I'm currently Focusing on...
 | [Ubuntu](https://github.com/AL0YSI0US/theNuanceGuide/blob/main/keeping-Ubuntu-upToDate.md) | Keeping your Ubuntu software up to date |
 <br>
 <br>
-👉🏾 I’m currently looking to collaborate on Open Source Projects > ✉️ [aloysiousx@gmail.com] ✉️
+I’m currently looking to collaborate on Open Source Projects  
+✉️ [aloysiousx@gmail.com] ✉️
 <br>
 💼 [Linkedin](https://www.linkedin.com/in/a-todd-charliemike/)
 <br>
