@@ -18,7 +18,9 @@ I'm currently Focusing on...
 | [Ubuntu](https://github.com/AL0YSI0US/theNuanceGuide/blob/main/keeping-Ubuntu-upToDate.md) | Keeping your Ubuntu software up to date |
 
 
+👉🏾 I’m currently looking to collaborate on Open Source Projects > ✉️ [aloysiousx@gmail.com](mailto:aloysiousx@gmail.com) ✉️
 
+💼 [Linkedin](https://www.linkedin.com/in/a-todd-charliemike/)
 
 ````python
 📚 This will be a compilation of work guides as I traverse my journey into the Tech industry.
@@ -30,9 +32,6 @@ A place to compile what questions I have answered for myself or that others have
 
 ````
 
-👉🏾 I’m currently looking to collaborate on Open Source Projects > ✉️ [aloysiousx@gmail.com](mailto:aloysiousx@gmail.com) ✉️
-
-💼 [Linkedin](https://www.linkedin.com/in/a-todd-charliemike/)
 
 This work by <a xmlns:cc="http://creativecommons.org/ns#" href="https://github.com/AL0YSI0US/" property="cc:attributionName" rel="cc:attributionURL">AL0YSI0US</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>. <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />
 
