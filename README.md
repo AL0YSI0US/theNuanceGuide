@@ -19,17 +19,17 @@ I'm currently Focusing on...
 <br>
 <br>
 👉🏾 I’m currently looking to collaborate on Open Source Projects > ✉️ [aloysiousx@gmail.com](mailto:aloysiousx@gmail.com) ✉️
-
+<br>
 💼 [Linkedin](https://www.linkedin.com/in/a-todd-charliemike/)
 <br>
-
+<br>
 ````python
 📚 This will be a compilation of work guides as I traverse my journey into the Tech industry.
 
 A place to compile what questions I have answered for myself or that others have answered for me.
 
 
-          Do more than clone, 🌟star🌟 it, so others can find it too! 👀
+     Do more than clone, 🌟star🌟 it, so others can find it too! 👀
 
 ````
 
