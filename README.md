@@ -1,5 +1,9 @@
 # 📚 theNuanceGuide <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> [![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)
 
+| Topic | Work Guide / Tutorial |
+| :-: | - |
+| [Ubuntu](https://github.com/AL0YSI0US/theNuanceGuide/blob/main/keeping-Ubuntu-upToDate.md) | Keeping your Ubuntu software up to date |
+
 <table align="center"><tr><td>
 <pre>
 I'm currently Focusing on...
@@ -22,10 +26,6 @@ A place to compile what questions I have answered for myself or that others have
           Do more than clone, 🌟star🌟 it, so others can find it too! 👀
 
 ````
-| Topic | Work Guide / Tutorial |
-| :-: | - |
-| [Ubuntu](https://github.com/AL0YSI0US/theNuanceGuide/blob/main/keeping-Ubuntu-upToDate.md) | Keeping your Ubuntu software up to date |
-
 
 👉🏾 I’m currently looking to collaborate on Open Source Projects > ✉️ [aloysiousx@gmail.com](mailto:aloysiousx@gmail.com) ✉️
 
