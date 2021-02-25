@@ -1,6 +1,6 @@
 # 📚 theNuanceGuide <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> [![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)
 
-💼 [Linkedin](https://www.linkedin.com/in/a-todd-charliemike/)
+💼 [Linkedin](https://www.linkedin.com/in/a-todd-charliemike/) || [Geeky Events Calendar](https://github.com/AL0YSI0US/aloysious-the-ambitious/blob/main/README.md)
 
 <table align="right"><tr><td>
 <pre>
