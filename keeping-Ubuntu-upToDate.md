@@ -49,7 +49,7 @@ You will be asked if you would like to continue... a "y" followed by pressing th
 
 ![](https://github.com/AL0YSI0US/theNuanceGuide/blob/main/img/ubuntu-3-continue.JPG?raw=true)
 
-Neat things happening.....
+Neat things are happening.....
 
 ![](https://github.com/AL0YSI0US/theNuanceGuide/blob/main/img/ubuntu-4-progress.JPG?raw=true)
 
