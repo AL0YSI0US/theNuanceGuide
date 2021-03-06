@@ -41,6 +41,10 @@ apt list --upgradable
 
 ![](https://github.com/AL0YSI0US/theNuanceGuide/blob/main/img/ubuntu-2-upgrade.JPG?raw=true)
 
+````bash
+sudo apt upgrade
+````
+
 You will be asked if you would like to continue... a "y" followed by pressing the return or enter key in any case will suffice.
 
 ![](https://github.com/AL0YSI0US/theNuanceGuide/blob/main/img/ubuntu-3-continue.JPG?raw=true)
