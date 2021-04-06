@@ -122,9 +122,28 @@ Show people how punny you are by displaying the Vercel-readme-joke app somewhere
 📚 👉🏾 👇🏾  🔓 ✔️ 🎨 ✨✊🏿 🌡️ 🔥 🔈 🔉🔊 ‼️ ✉️ 🌟 🔧✏️❤️ 📷 🌈 📞 📌🛡️ 
 -
 
+<div align="center">
+  
+C H E C K L I S T S
 
+````
+DOING THIS......
+- []
+- []
+- []
+- [x]
+- [x]
+````
 
+RENDERS THIS......
 
+- []
+- []
+- []
+- [x]
+- [x]
+
+</div>
 
 
 [<== Home](README.md) 🏠
