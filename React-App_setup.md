@@ -49,15 +49,19 @@ Since a repository has already been created you can enter the following commands
 
 **Step 4.**
 
++ create and checkout a new working branch
+````
+git checkout -b branchName 
+
+(does not neet to be camel cased, this is just a personal preference)
+````
+**Step 5.**
+
 Next enter the following command:
 
 ````javascript
 npm start
 ````
-
-**Step 5.**
-
-+ checkout a working branch
 
 ## Getting Started with Create React App
 
